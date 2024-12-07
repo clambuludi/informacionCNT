@@ -1,0 +1,220 @@
+
+Timestamp: 2024-12-07T17:34:04.255Z
+IP: 181.113.96.227
+Location: (-0.0950272, -78.4695296)
+Browser Info: {
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+  "platform": "Win32",
+  "language": "es-419"
+}
+
+
+Timestamp: 2024-12-07T17:34:11.864Z
+IP: 181.113.96.227
+Location: (-0.0950272, -78.4695296)
+Browser Info: {
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+  "platform": "Win32",
+  "language": "es-419"
+}
+
+
+Timestamp: 2024-12-07T17:34:24.607Z
+IP: 181.113.96.227
+Location: (-0.0950272, -78.4695296)
+Browser Info: {
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+  "platform": "Win32",
+  "language": "es-419"
+}
+
+
+Timestamp: 2024-12-07T17:34:25.029Z
+IP: 181.113.96.227
+Location: (-0.0950272, -78.4695296)
+Browser Info: {
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+  "platform": "Win32",
+  "language": "es-419"
+}
+
+
+Timestamp: 2024-12-07T17:34:25.939Z
+IP: 181.113.96.227
+Location: (-0.0950272, -78.4695296)
+Browser Info: {
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+  "platform": "Win32",
+  "language": "es-419"
+}
+
+
+Timestamp: 2024-12-07T17:34:26.976Z
+IP: 181.113.96.227
+Location: (-0.0950272, -78.4695296)
+Browser Info: {
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+  "platform": "Win32",
+  "language": "es-419"
+}
+
+
+Timestamp: 2024-12-07T17:34:27.204Z
+IP: 181.113.96.227
+Location: (-0.0950272, -78.4695296)
+Browser Info: {
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+  "platform": "Win32",
+  "language": "es-419"
+}
+
+
+Timestamp: 2024-12-07T17:34:27.438Z
+IP: 181.113.96.227
+Location: (-0.0950272, -78.4695296)
+Browser Info: {
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+  "platform": "Win32",
+  "language": "es-419"
+}
+
+
+Timestamp: 2024-12-07T17:34:41.172Z
+IP: 181.113.96.227
+Location: (-0.0950272, -78.4695296)
+Browser Info: {
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+  "platform": "Win32",
+  "language": "es-419"
+}
+
+
+Timestamp: 2024-12-07T17:37:19.468Z
+IP: 181.113.96.227
+Location: (-0.0950272, -78.4695296)
+Browser Info: {
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+  "platform": "Win32",
+  "language": "es-419"
+}
+
+
+Timestamp: 2024-12-07T17:37:20.571Z
+IP: 181.113.96.227
+Location: (-0.0950272, -78.4695296)
+Browser Info: {
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+  "platform": "Win32",
+  "language": "es-419"
+}
+
+
+Timestamp: 2024-12-07T17:37:22.422Z
+IP: 181.113.96.227
+Location: (-0.0950272, -78.4695296)
+Browser Info: {
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+  "platform": "Win32",
+  "language": "es-419"
+}
+
+
+Timestamp: 2024-12-07T17:37:23.335Z
+IP: 181.113.96.227
+Location: (-0.0950272, -78.4695296)
+Browser Info: {
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+  "platform": "Win32",
+  "language": "es-419"
+}
+
+
+Timestamp: 2024-12-07T17:37:25.010Z
+IP: 181.113.96.227
+Location: (-0.0950272, -78.4695296)
+Browser Info: {
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+  "platform": "Win32",
+  "language": "es-419"
+}
+
+
+Timestamp: 2024-12-07T17:37:25.836Z
+IP: 181.113.96.227
+Location: (-0.0950272, -78.4695296)
+Browser Info: {
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+  "platform": "Win32",
+  "language": "es-419"
+}
+
+
+Timestamp: 2024-12-07T17:37:32.873Z
+IP: 181.113.96.227
+Location: (-0.0950272, -78.4695296)
+Browser Info: {
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+  "platform": "Win32",
+  "language": "es-419"
+}
+
+
+Timestamp: 2024-12-07T17:37:33.936Z
+IP: 181.113.96.227
+Location: (-0.0950272, -78.4695296)
+Browser Info: {
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+  "platform": "Win32",
+  "language": "es-419"
+}
+
+
+Timestamp: 2024-12-07T17:37:34.668Z
+IP: 181.113.96.227
+Location: (-0.0950272, -78.4695296)
+Browser Info: {
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+  "platform": "Win32",
+  "language": "es-419"
+}
+
+
+Timestamp: 2024-12-07T17:37:35.348Z
+IP: 181.113.96.227
+Location: (-0.0950272, -78.4695296)
+Browser Info: {
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+  "platform": "Win32",
+  "language": "es-419"
+}
+
+
+Timestamp: 2024-12-07T17:37:36.232Z
+IP: 181.113.96.227
+Location: (-0.0950272, -78.4695296)
+Browser Info: {
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+  "platform": "Win32",
+  "language": "es-419"
+}
+
+
+Timestamp: 2024-12-07T17:37:36.918Z
+IP: 181.113.96.227
+Location: (-0.0950272, -78.4695296)
+Browser Info: {
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+  "platform": "Win32",
+  "language": "es-419"
+}
+
+
+Timestamp: 2024-12-07T17:37:46.121Z
+IP: 181.113.96.227
+Location: (-0.0950272, -78.4695296)
+Browser Info: {
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+  "platform": "Win32",
+  "language": "es-419"
+}
+
